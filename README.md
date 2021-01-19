@@ -1,4 +1,4 @@
-# This is a heading 1
+# <Project_Name>
 
 ## This is a heading 2
 
