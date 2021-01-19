@@ -8,3 +8,4 @@
 ### This is a heading 3
 
 1. Here's how to run my project
+2. Use npm run start
